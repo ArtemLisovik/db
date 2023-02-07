@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "descr": "Chosen one",
+      "element": "fire"
+    },
+    {
+      "id": 23,
+      "name": "Darth Vader",
+      "descr": "Dark Lord",
+      "element": "fire"
+    },
+    {
+      "id": 24,
+      "name": "Obi-van",
+      "descr": "Всем пиздец",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
